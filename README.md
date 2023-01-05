@@ -6,6 +6,6 @@ Install Library
 pip install -U craiyon.py
 ```
 
-## Run *Jupyter Notebook* file
+## Run *Jupyter Notebook*
 
 Output will be save in **"output_folder"** folder
