@@ -6,6 +6,6 @@ Install Library
 pip install -U craiyon.py
 ```
 
-## Run **Craiyon AI Text to Image generator.ipynb** file
+## Run *Jupyter Notebook* file
 
 Output will be save in **"output_folder"** folder
