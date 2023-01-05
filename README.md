@@ -7,3 +7,5 @@ pip install -U craiyon.py
 ```
 
 ## Run **Craiyon AI Text to Image generator.ipynb** file
+
+Output will be save in folder
